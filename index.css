@@ -1,0 +1,49 @@
+/* Write your code here. */
+/* Write your code here. */
+.bg {
+  background-color: white;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.h {
+  color: black;
+  font-size: 20px;
+}
+.con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.b {
+  background-color: blue;
+  width: 200px;
+  height: 20px;
+  display: flex;
+  padding: 10px;
+}
+.g {
+  background-color: greenyellow;
+  width: 200px;
+  height: 20px;
+  display: flex;
+  padding: 10px;
+}
+.y {
+  background-color: yellow;
+  width: 200px;
+  height: 20px;
+  display: flex;
+  padding: 10px;
+}
+.r {
+  background-color: red;
+  width: 200px;
+  height: 20px;
+  display: flex;
+  padding: 10px;
+}
