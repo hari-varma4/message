@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "In this project, let's build a **Notifications** app by applying the concepts we have learned till now.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hari-varma4/message.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hari-varma4/message/issues"
+  },
+  "homepage": "https://github.com/hari-varma4/message#readme"
+}
