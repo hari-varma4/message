@@ -2,7 +2,7 @@ const Notification = (props) => {
   //  Write your code here.
   const { classs, text, img } = props;
   return (
-    <p className={`p{classs}`}>
+    <p className={`p ${classs}`}>
       <img src={img} />
       {text}
     </p>
